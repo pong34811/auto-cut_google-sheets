@@ -50,11 +50,11 @@ output/
 *.tmp
 temp/
 
-# FFmpeg and yt-dlp binaries (optional - uncomment if you want to exclude)
-# ffmpeg.exe
-# ffmpeg
-# yt-dlp.exe
-# yt-dlp
+# FFmpeg and yt-dlp binaries
+ffmpeg.exe
+ffmpeg
+yt-dlp.exe
+yt-dlp
 
 # API keys and sensitive data
 .env.local
